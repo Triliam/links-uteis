@@ -1,5 +1,5 @@
 # links-uteis
-Links úteis programacao
+Links úteis programação
 
 [Minecraft para programar](https://studio.code.org/s/mc/lessons/1/levels/1)
 
@@ -11,8 +11,8 @@ Links úteis programacao
 
 [Imagens Gratuitas](https://unsplash.com/)
 
-[Reduz tamanho do arquivo](https://tinypng.com/)
+[Reduzir tamanho do arquivo](https://tinypng.com/)
 
-[CSS](https://css-tricks.com/)
+[CSS tricks](https://css-tricks.com/)
 
 [fontes e icones](https://fontawesome.com/)
