@@ -1,7 +1,7 @@
 # links-uteis
 Links úteis programação
 
-[Cursos online e gratuitos da Loiane Groner!!!] (https://loiane.training/)
+[Cursos online e gratuitos da Loiane Groner!!!](https://loiane.training/)
 
 [Minecraft para programar](https://studio.code.org/s/mc/lessons/1/levels/1)
 
